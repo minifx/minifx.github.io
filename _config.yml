@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+show_downloads: true
+title: MiniFx
+description: A minimalistic approach for organizing JavaFx GUIs within spring contexts.
