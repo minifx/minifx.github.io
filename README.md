@@ -9,7 +9,7 @@ MiniFx is a set of libraries which resulted from these considerations. These lib
 Currently, MiniFx consists of the following projects:
 
 |      library      | purpose |
-|---------|---------|
+|-------------------|---------|
 |[minifx-fxml](https://minifx.org/minifx-fxml)|simplifies loading of fxml files and their controllers using naming conventions|
 |[minifx-workbench](https://minifx.org/minifx-workbench)|organizes JavaFx applications in a workbench like manner within spring contexts|
 
